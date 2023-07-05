@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jocelynkamai, ALOHA!
 - 👀 I’m interested in Web Development.
-- 🌱 I’m just completed Web Development Fundamentals and will be starting Full-Stack Development soon.
+- 🌱 I just completed Web Development Fundamentals and will be starting Full-Stack Development soon.
 - 📫 You can reach me at zyra171@hotmail.com.
 
 <!---
